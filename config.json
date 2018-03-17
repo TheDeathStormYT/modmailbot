@@ -3,6 +3,8 @@
   "mailGuildId": "424657266331877377",
   "mainGuildId": "419210737664393216",
   "logChannelId": "424657266814484490",
+  "typingProxy": "true",
+  "typingProxyReverse": "true",
   
   "status": "Message me for help!",
   "responseMessage": "Thank you for your message! Our mod team will reply to you here as soon as possible."
